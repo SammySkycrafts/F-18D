@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">USMC VFMA 314 "Black Knights"</name>
+     <fuselage>Liveries/DDC/DDCfuselage.jpg</fuselage>
+	 <wings>Liveries/DDC/DDCwing-stab.jpg</wings>
+	 <vstab>Liveries/DDC/DDCrudder.jpg</vstab>
+     <texture-pilot>Liveries/DDC/DDCpilot.jpg</texture-pilot>
+
+   <specular>
+              <red>   0.3 </red>
+              <green> 0.3 </green>
+              <blue>  0.3 </blue>
+            </specular>
+
+            <emission>
+              <red>   0.2 </red>
+              <green> 0.2 </green>
+              <blue>  0.2 </blue>
+            </emission>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

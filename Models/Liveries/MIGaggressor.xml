@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">US Navy "MiG" Aggressor</name>
+     <fuselage>Liveries/Aggressor/MiGfuselage.jpg</fuselage>
+	 <wings>Liveries/Aggressor/MiGwing-stab.jpg</wings>
+	 <vstab>Liveries/Aggressor/MiGrudder.jpg</vstab>
+     <texture-pilot>Liveries/Aggressor/MIGpilot.jpg</texture-pilot>
+
+   <specular>
+              <red>   0.3 </red>
+              <green> 0.3 </green>
+              <blue>  0.3 </blue>
+            </specular>
+
+            <emission>
+              <red>   0.2 </red>
+              <green> 0.2 </green>
+              <blue>  0.2 </blue>
+            </emission>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

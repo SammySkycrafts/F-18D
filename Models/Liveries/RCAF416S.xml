@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">RCAF 416FS</name>
+     <fuselage>Liveries/RCAF416FS/balkanratfuse.jpg</fuselage>
+	 <wings>Liveries/RCAF416FS/balkanrathstabs.jpg</wings>
+	 <vstab>Liveries/RCAF416FS/balkanratrudder.jpg</vstab>
+     <texture-pilot>Liveries/RCAF416FS/RCAFpilot.jpg</texture-pilot>
+
+   <specular>
+              <red>   0.3 </red>
+              <green> 0.3 </green>
+              <blue>  0.3 </blue>
+            </specular>
+
+            <emission>
+              <red>   0.2 </red>
+              <green> 0.2 </green>
+              <blue>  0.2 </blue>
+            </emission>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">Blue Angels</name>
+     <fuselage>Liveries/blueangels/fuselage.jpg</fuselage>
+	 <wings>Liveries/blueangels/wing-stab.jpg</wings>
+	 <vstab>Liveries/blueangels/rudder.jpg</vstab>
+     <texture-pilot>Liveries/blueangels/BApilot.jpg</texture-pilot>
+
+   <specular>
+              <red>   0.3 </red>
+              <green> 0.3 </green>
+              <blue>  0.3 </blue>
+            </specular>
+
+            <emission>
+              <red>   0.2 </red>
+              <green> 0.2 </green>
+              <blue>  0.2 </blue>
+            </emission>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>
